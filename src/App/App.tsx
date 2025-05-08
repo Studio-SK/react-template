@@ -1,5 +1,3 @@
-import './App.css'
-
 export const App = () => {
-    return <div className="container">Hello World</div>
+    return <h1 className="text-teal-700 text-2xl text-center">Hello world</h1>
 }
